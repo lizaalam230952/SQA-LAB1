@@ -1,0 +1,4 @@
+In this lab, I learned how Git and GitHub help manage QA artifacts professionally. 
+Version control ensures accountability and traceability by recording who made changes and when. 
+GitHub supports collaboration by allowing multiple team members to work on the same repository and track updates in real time. 
+This setup will help maintain organized and controlled QA documentation throughout the semester.
